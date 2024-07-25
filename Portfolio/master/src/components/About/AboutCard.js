@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ram Chandra Gutta </span>
             from <span className="purple"> Vijayawada, India.</span>
             <br />
-            I am currently pursuing my 3rd year of bachelor's degree SRM University, Amaravati.
+            I am currently pursuing my 3rd year of bachelor's degree at SRM University, Amaravati.
             <br />
-            I have completed Intermediate At Krishna Reddy's Chaitanya (2020-2022) and Schooling at Sri Chaitanya Olympiad School
+            I have completed my Intermediate at Krishna Reddy's Chaitanya (2020-2022) and Schooling at Sri Chaitanya Olympiad School
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
